@@ -1,13 +1,7 @@
-Demo:  rina4790karina-todo-another.netlify.app
-
-1. `create-react-app --template typescript` - создаем react-проект с предустановленным typescript
-2. `npm install redux` - устанавливаем redux
-3. `npm install react-redux` - устанавливаем react-redux
-4. `npm install react-router-dom` - устанавливаем роутинг
-5. `npm install --save-dev @types/redux` - устанавливаем типы для библиотек выше
-6. `npm install --save-dev @types/react-router-dom` - устанавливаем типы для библиотек выше
-7. `npm install redux-devtools-extension` - устанавливаем библиотеку для работы Redux Dev tools
-8. `npm install redux-saga` - устанавливаем redux-saga
- 
+Demo:  [https://rina4790karina-todo-another.netlify.app/](https://rina4790karina-todo-another.netlify.app/)
 
 
+Инструкции к запуску todo-list приложения:
+1. Склонировать репозиторий либо скачать и распаковать.
+2. Открыть с помощью React.
+3. Выполнить команды в терминале: npm i, затем npm start.
