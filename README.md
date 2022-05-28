@@ -1,4 +1,4 @@
-
+Demo:  rina4790karina-todo-another.netlify.app
 
 1. `create-react-app --template typescript` - создаем react-проект с предустановленным typescript
 2. `npm install redux` - устанавливаем redux
